@@ -15,7 +15,7 @@
     "fastify-autoload": "^0.5.1",
     "fastify-jwt": "^0.9.2",
     "handlebars": "^4.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mongoose": "^5.4.0",
     "nconf": "^0.10.0",
     "nodemailer": "^5.1.1",
